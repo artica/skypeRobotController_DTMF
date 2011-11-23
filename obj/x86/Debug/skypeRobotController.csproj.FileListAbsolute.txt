@@ -1,0 +1,77 @@
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.SerialSkype.resources
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeRobotController.exe
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\bin\Debug\skypeRobotController.exe
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\bin\Debug\skypeRobotController.pdb
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeRobotController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe.config
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeMagabot.skypeRobotController.resources
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.pdb
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.exe
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.pdb
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe.config
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.pdb
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.skypeRobotController.resources
+E:\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe.config
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.csproj.ResolveComReference.cache
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.exe
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.pdb
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.skypeRobotController.resources
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe
+E:\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.pdb
+F:\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe.config
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.csproj.ResolveComReference.cache
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.exe
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.pdb
+F:\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.exe
+F:\skypeRobotController\skypeRobotController\bin\Debug\skypeRobotController.pdb
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\skypeRobotController.skypeRobotController.resources
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\skypeRobotController\skypeRobotController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\skypeRobotController.exe
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\skypeRobotController.pdb
+C:\Users\ALIAN\Desktop\skypeRobotController\bin\Debug\skypeRobotController.exe.config
+C:\Users\ALIAN\Desktop\skypeRobotController\bin\Debug\skypeRobotController.exe
+C:\Users\ALIAN\Desktop\skypeRobotController\bin\Debug\skypeRobotController.pdb
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\bin\Debug\skypeRobotController.exe.config
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\skypeRobotController.exe
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\skypeRobotController.pdb
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\bin\Debug\skypeRobotController.exe
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\bin\Debug\skypeRobotController.pdb
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\skypeRobotController.StateObject.resources
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ALIAN\Desktop\skypeRobotController_DTMF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\skypeRobotController.Properties.Resources.resources
+C:\Users\ALIAN\Desktop\skypeRobotController\obj\x86\Debug\skypeRobotController.skypeRobotController.resources

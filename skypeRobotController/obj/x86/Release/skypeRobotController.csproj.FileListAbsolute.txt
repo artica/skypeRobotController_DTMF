@@ -1,0 +1,65 @@
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\Interop.SKYPE4COMLib.dll
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\skypeRobotController.exe
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\skypeRobotController.pdb
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\bin\Release\skypeRobotController.exe
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\bin\Release\skypeRobotController.pdb
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\skypeMagabot.SerialSkype.resources
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\bin\Release\skypeRobotController.exe.config
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\bin\Release\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\bin\Release\skypeRobotController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\Interop.SKYPE4COMLib.dll
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\skypeRobotController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeMagabot\skypeMagabot\obj\x86\Release\skypeMagabot.skypeRobotController.resources
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe.config
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\Interop.SKYPE4COMLib.dll
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\skypeMagabot.skypeRobotController.resources
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeRobotController\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe.config
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\Interop.SKYPE4COMLib.dll
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.csproj.ResolveComReference.cache
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.exe
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.pdb
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.skypeRobotController.resources
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe
+C:\Users\ALIAN\Downloads\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.pdb
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\ResolveAssemblyReference.cache
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.csproj.ResolveComReference.cache
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.skypeRobotController.resources
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.read.1.tlog
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.write.1.tlog
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.exe
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.pdb
+E:\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe.config
+E:\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe
+E:\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.pdb
+E:\skypeRobotController\skypeRobotController\obj\x86\Release\Interop.SKYPE4COMLib.dll
+F:\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe.config
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\Interop.SKYPE4COMLib.dll
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.csproj.ResolveComReference.cache
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.exe
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.pdb
+F:\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.exe
+F:\skypeRobotController\skypeRobotController\bin\Release\skypeRobotController.pdb
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\ResolveAssemblyReference.cache
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\skypeRobotController.skypeRobotController.resources
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.read.1.tlog
+F:\skypeRobotController\skypeRobotController\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,35 @@
+C:\Users\aspa\AppData\Local\Temporary Projects\skypeMagabot\bin\Debug\skypeMagabot.exe
+C:\Users\aspa\AppData\Local\Temporary Projects\skypeMagabot\bin\Debug\skypeMagabot.pdb
+C:\Users\aspa\AppData\Local\Temporary Projects\skypeMagabot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aspa\AppData\Local\Temporary Projects\skypeMagabot\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\aspa\AppData\Local\Temporary Projects\skypeMagabot\obj\x86\Debug\skypeMagabot.csproj.ResolveComReference.cache
+C:\Users\aspa\AppData\Local\Temporary Projects\skypeMagabot\obj\x86\Debug\skypeMagabot.exe
+C:\Users\aspa\AppData\Local\Temporary Projects\skypeMagabot\obj\x86\Debug\skypeMagabot.pdb
+C:\Users\aspa\Desktop\Artica\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\aspa\Desktop\Artica\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.csproj.ResolveComReference.cache
+C:\Users\aspa\Desktop\Artica\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.exe
+C:\Users\aspa\Desktop\Artica\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.pdb
+C:\Users\aspa\Desktop\Artica\Projects\skypeMagabot\skypeMagabot\bin\Debug\skypeMagabot.exe
+C:\Users\aspa\Desktop\Artica\Projects\skypeMagabot\skypeMagabot\bin\Debug\skypeMagabot.pdb
+C:\Users\aspa\Desktop\Artica\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.csproj.ResolveComReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.SerialSkype.resources
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\bin\Debug\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\bin\Debug\skypeRobotController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeRobotController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeRobotController.pdb
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.csproj.ResolveComReference.cache
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.SerialSkype.resources
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\bin\Debug\skypeMagabot.exe
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\bin\Debug\skypeMagabot.pdb
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.exe
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\obj\x86\Debug\skypeMagabot.pdb
+C:\Users\aspa\Desktop\skypeMagabot\skypeMagabot\bin\Debug\skypeMagabot.exe.config
